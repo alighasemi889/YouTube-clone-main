@@ -29,6 +29,7 @@ Feel free to explore and contribute to enhance the project further!
 
 - HTML5
 - CSS3
+- SASS
   
 ## Getting Started
 
@@ -53,7 +54,7 @@ Feel free to explore and contribute to enhance the project further!
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" width="20" /></td>
     <td>Twitter</td>
-    <td><code>Ali-ghasemi</code></td>
+    <td><code>@Ali-ghasemi</code></td>
     <td><a href="https://twitter.com/AG9whitehat" target="_blank">Twitter</a></td>
   </tr>
 </table>
